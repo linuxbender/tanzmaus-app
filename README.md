@@ -2,7 +2,7 @@
 
 A web-based sample manager for the MFB Tanzmaus drum machine.
 
-![Tests](https://github.com/linuxbender/tanzmaus-web/actions/workflows/test.yml/badge.svg)
+![Tests](https://linuxbender.github.io/tanzmaus-app/badge-tests.svg)
 
 ## Requirements
 
