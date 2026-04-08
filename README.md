@@ -4,6 +4,8 @@ A web-based sample manager for the MFB Tanzmaus drum machine.
 
 ![Tests](https://linuxbender.github.io/tanzmaus-app/badge-tests.svg)
 
+🌐 **[Open App](https://linuxbender.github.io/tanzmaus-app/)**
+
 ## Requirements
 
 - Browser with Web MIDI API support (Chrome or Edge)
