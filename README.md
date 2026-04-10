@@ -9,8 +9,12 @@ A web-based sample manager for the MFB Tanzmaus drum machine.
 ## Requirements
 
 - Browser with Web MIDI API support (Chrome or Edge)
-- MFB Tanzmaus with **firmware ≥ 1.6**
-- USB MIDI interface
+- MFB Tanzmaus with **[firmware ≥ 1.6](https://github.com/linuxbender/mfb-backup/tree/main/Tanzmaus/firmware)**
+- Connect MFB Tanzmaus (Midi In) to your Midi interface (Midi Out) using a standard MIDI cable
+- Open the app in your browser (Google Chrome) and select the correct MIDI interface from the dropdown menu
+- Red / Real is not active, LEDs is not light up, otherwise the app will not work
+- Sequencer must be stopped, otherwise the app will not work
+- use a standard midi interface - transmitting MIDI data is slow
 
 ## Features
 
